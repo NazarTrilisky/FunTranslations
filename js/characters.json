@@ -1,0 +1,32 @@
+var characters = [
+    {
+        "name": "pirate",
+        "image": "pirate.jpeg",
+        "sound": "pirate.ogg"
+    },
+    {
+        "name": "emoji",
+        "image": "emoji.png",
+        "sound": "emoji.ogg"
+    },
+    {
+        "name": "pig_latin",
+        "image": "pig.png",
+        "sound": "pig_latin.ogg"
+    },
+    {
+        "name": "boston",
+        "image": "boston.jpg",
+        "sound": "boston.ogg"
+    },
+    {
+        "name": "valley_girl",
+        "image": "valley_girl.png",
+        "sound": "valley_girl.ogg"
+    },
+    {
+        "name": "shakespeare",
+        "image": "shakespeare.png",
+        "sound": "shakespeare.ogg"
+    }
+];
