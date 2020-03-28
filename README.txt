@@ -1,6 +1,9 @@
 Fun Translations
 
-This is a web application to translate input text to character speak.  For example, if the input text is "I crossed the seas" and the character is "pirate", then the output could be "Yarr mateys, I crossd' ther seas."  A screenshot of the website is attached for the pig latin translation.
+This is a web application to translate input text to character speak.
+For example, if the input text is "I crossed the seas" and the character is "pirate",
+then the output could be "Yarr mateys, I crossd' ther seas."
+A screenshot of the website is attached for the pig latin translation.
 
 Installation:
 1. Install Python 3
